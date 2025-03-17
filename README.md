@@ -1,6 +1,6 @@
 # **Customer Segmentation & Recommendation System**  
 
-This repository contains a **customer segmentation and recommendation system**, built using **RFM analysis, K-Means clustering, and hybrid collaborative-content-based filtering**. The notebook provides **data-driven customer segmentation, personalized product recommendations, and evaluation using Precision@K & Recall@K.**
+This repository contains a **customer segmentation and recommendation system (retail_product_recsys.ipynb)**, built using **RFM analysis, K-Means clustering, and hybrid collaborative-content-based filtering**. The notebook provides **data-driven customer segmentation, personalized product recommendations, and evaluation using Precision@K & Recall@K.**
 
 ---
 
