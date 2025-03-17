@@ -160,7 +160,3 @@ print(f"📊 Recall@5: {recall_at_5:.4f}")
    evaluator.precision_recall_at_k(K=5)
    ```
 
----
-
-Let me know if you need any modifications or additional details! 🚀
-
